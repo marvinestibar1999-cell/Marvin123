@@ -148,7 +148,7 @@ width: 100%;
             border-radius: 4px;
             font-size: 1rem;
             cursor: pointer;
-            transition: background be;
+            transition: background 0.4;
         }
 
         button:hover {
@@ -162,6 +162,7 @@ width: 100%;
                 padding: 20px;
             }
         }
+
 
 
 
