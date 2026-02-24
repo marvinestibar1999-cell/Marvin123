@@ -2,23 +2,23 @@
     text-align: center;
     padding-top: 5px;
     padding-bottom: 15px;
-color: white;
+    color: white;
 }
 body{
-color: white;
-  padding: 25px;
-   background-image: url (naruto.jpg);
-  background-repeat: no-repeat;
-  background-size: 1400px;
+    color: white;
+    padding: 25px;
+    background-image: url (naruto.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px;
 }
 #container{
     color: white;
-  float: left;
-  padding-top: 30px;
+    float: left;
+    padding-top: 30px;
 
-  background-size: inherit;
-  display: grid;
-  grid-template-areas:
+   background-size: inherit;
+   display: grid;
+   grid-template-areas:
    'header header header header'
    'navigation content content content content'
    'navigation content content content content'
@@ -26,15 +26,15 @@ color: white;
 
 }
 #menu2{
- display: inline-block;
- word-spacing: 347px;
+   display: inline-block;
+   word-spacing: 347px;
 
- padding-top: 5px;
- padding-bottom: 5px;
+   padding-top: 5px;
+   padding-bottom: 5px;
 }
 
 form {
-border: 3px solid #f1f1f1;
+   border: 3px solid #f1f1f1;
 }
 
 input[type=text], input[type=password] {
@@ -162,6 +162,7 @@ width: 100%;
                 padding: 20px;
             }
         }
+
 
 
 
