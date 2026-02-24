@@ -11,7 +11,7 @@ color: white;
   background-repeat: no-repeat;
   background-size: 1400px;
 }
-#menu{
+#container{
     color: white;
   float: left;
   padding-top: 30px;
@@ -162,6 +162,7 @@ width: 100%;
                 padding: 20px;
             }
         }
+
 
 
 
