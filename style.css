@@ -7,7 +7,7 @@ header{
 body{
     color: white;
     padding: 25px;
-    background-image: url (naruto.jpg);
+    background-image: url(naruto.jpg);
     background-repeat: no-repeat;
     background-size: 1400px;
 }
@@ -162,6 +162,7 @@ width: 100%;
                 padding: 20px;
             }
         }
+
 
 
 
