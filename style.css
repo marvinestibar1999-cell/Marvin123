@@ -1,4 +1,4 @@
-#header{
+header{
     text-align: center;
     padding-top: 5px;
     padding-bottom: 15px;
@@ -11,7 +11,7 @@ body{
     background-repeat: no-repeat;
     background-size: 1400px;
 }
-#container{
+container{
     color: white;
     float: left;
     padding-top: 30px;
@@ -25,7 +25,7 @@ body{
    'footer footer footer footer footer'
 
 }
-#menu2{
+menu2{
    display: inline-block;
    word-spacing: 347px;
 
@@ -162,6 +162,7 @@ width: 100%;
                 padding: 20px;
             }
         }
+
 
 
 
